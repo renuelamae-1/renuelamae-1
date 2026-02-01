@@ -1,16 +1,54 @@
-## Hi there 👋
+## 👋 Hi, I’m Ren!
 
-<!--
-**renuelamae-1/renuelamae-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+an IT student fueled by curiosity, caffeine, and the occasional deadline panic. I enjoy exploring new technologies, polishing my skills, and turning ideas into projects that are both functional and visually pleasing. 
+I believe good tech should make life easier—not more confusing. After all, if users need a manual to click a button… something definitely went wrong.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+About Me (aka the lore)
+
+💻 IT student by day, an IT explorer by night
+
+🎨 Likes clean UI, readable code, and pretending everything was planned
+
+🛠️ Builds projects for school, practice, and emotional support
+
+🐛 Debugging is my cardio
+
+🚀 Currently learning, failing, fixing, and calling it “iteration”
+
+
+(I’ve met them all at least once)
+##Tools
+## 🛠 Tools & Languages
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+
+##Languages
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40"/>
+</p>
+
+
+
+
+
+HTML • CSS • Python • PHP • MySQL • Figma • Canva
+(some better friends than others)
+
+Let’s Connect
+
+If you:
+-like tech,
+-appreciate mildly organized chaos,
+-or also push to GitHub and hope for the best…
+we’ll get along just fine 😌✨
