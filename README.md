@@ -6,13 +6,6 @@ I believe good tech should make life easier—not more confusing. After all, if 
 
 ## About Me (aka the lore)
 
-<table>
-<tr>
-<td>
-<img src="assets/chibi.gif" width="230"/>
-</td>
-<td>
-
 💻 IT student by day, an IT explorer by night
 
 🎨 Likes clean UI, readable code, and pretending everything was planned
