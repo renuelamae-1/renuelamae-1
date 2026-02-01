@@ -20,7 +20,7 @@ About Me (aka the lore)
 ## (I’ve met them all at least once)
 ## 🛠 Tools
 
-<p align="left">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
@@ -32,7 +32,7 @@ About Me (aka the lore)
 
 ## 🧠 Languages
 
-<p align="right">
+<p align="canter">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
@@ -41,10 +41,15 @@ About Me (aka the lore)
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40"/>
 </p>
 
-Let’s Connect
+
+
+## Let’s Connect
 
 If you:
 -like tech,
+
 -appreciate mildly organized chaos,
+
 -or also push to GitHub and hope for the best…
+
 we’ll get along just fine 😌✨
