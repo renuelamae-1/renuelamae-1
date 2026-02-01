@@ -6,8 +6,8 @@ I believe good tech should make life easier—not more confusing. After all, if 
 
 ## About Me (aka the lore)
 
-<p align="center">
-  <img src="ezgif.com-crop.gif" width="300" />
+<p align="right">
+  <img src="output-onlinegiftools.gif" width="300" />
 </p>
 
 💻 IT student by day, an IT explorer by night
