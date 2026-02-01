@@ -17,8 +17,7 @@ About Me (aka the lore)
 🚀 Currently learning, failing, fixing, and calling it “iteration”
 
 
-(I’ve met them all at least once)
-##Tools
+## (I’ve met them all at least once)
 ## 🛠 Tools
 
 <p align="left">
@@ -31,9 +30,9 @@ About Me (aka the lore)
 </p>
 
 
-## 🛠 Languages
+## 🧠 Languages
 
-<p align="left">
+<p align="right">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
@@ -41,13 +40,6 @@ About Me (aka the lore)
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40"/>
 </p>
-
-
-
-
-
-HTML • CSS • Python • PHP • MySQL • Figma • Canva
-(some better friends than others)
 
 Let’s Connect
 
