@@ -4,7 +4,7 @@ an IT student fueled by curiosity, caffeine, and the occasional deadline panic. 
 I believe good tech should make life easier—not more confusing. After all, if users need a manual to click a button… something definitely went wrong.
 
 
-About Me (aka the lore)
+## About Me (aka the lore)
 
 💻 IT student by day, an IT explorer by night
 
@@ -20,7 +20,7 @@ About Me (aka the lore)
 ## (I’ve met them all at least once)
 ## 🛠 Tools
 
-<p align="center">
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
@@ -32,7 +32,7 @@ About Me (aka the lore)
 
 ## 🧠 Languages
 
-<p align="canter">
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
@@ -46,6 +46,7 @@ About Me (aka the lore)
 ## Let’s Connect
 
 If you:
+
 -like tech,
 
 -appreciate mildly organized chaos,
