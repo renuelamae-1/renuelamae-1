@@ -16,7 +16,7 @@ I believe good tech should make life easier—not more confusing. After all, if 
 - Currently learning, failing, fixing, and calling it “iteration”
 
 
-## (I’ve met them all at least once)
+# (I’ve met them all at least once)
 ## 🛠 Tools
 
 <p align="left">
