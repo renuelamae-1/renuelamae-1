@@ -4,21 +4,29 @@ an IT student fueled by curiosity, caffeine, and the occasional deadline panic. 
 I believe good tech should make life easier—not more confusing. After all, if users need a manual to click a button… something definitely went wrong.
 
 
-## About Me (aka the lore)
+<table>
+  <tr>
+    <!-- LEFT SIDE: ABOUT ME TEXT -->
+    <td valign="top" width="70%">
 
-<p align="right">
-  <img src="output-onlinegiftools.gif" width="300" />
-</p>
+      <h3>About Me (aka the lore)</h3>
 
-💻 IT student by day, an IT explorer by night
+      <ul>
+        <li>💻 IT student by day, an IT explorer by night</li>
+        <li>😂 Likes clean UI, readable code, and pretending everything was planned</li>
+        <li>🛠️ Builds projects for school, practice, and emotional support</li>
+        <li>🏃 Debugging is my cardio</li>
+        <li>🚀 Currently learning, failing, fixing, and calling it “iteration”</li>
+      </ul>
 
-🎨 Likes clean UI, readable code, and pretending everything was planned
+    </td>
 
-🛠️ Builds projects for school, practice, and emotional support
-
-🐛 Debugging is my cardio
-
-🚀 Currently learning, failing, fixing, and calling it “iteration”
+    <!-- RIGHT SIDE: IMAGE -->
+    <td valign="top" width="30%" align="center">
+      <img src="your-image.png" width="220" style="border-radius: 15px;" />
+    </td>
+  </tr>
+</table>
 
 
 ## (I’ve met them all at least once)
