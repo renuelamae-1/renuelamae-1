@@ -5,15 +5,15 @@ I believe good tech should make life easier—not more confusing. After all, if 
 
 ## About Me 
  
-= IT student by day, an explorer by night
+- IT student by day, an explorer by night
 
-= Likes clean UI, readable code, and pretending everything was planned
+- Likes clean UI, readable code, and pretending everything was planned
 
-= Builds projects for school, practice, and emotional support
+- Builds projects for school, practice, and emotional support
  
 - Debugging is my cardio
 
-= Currently learning, failing, fixing, and calling it “iteration”
+- Currently learning, failing, fixing, and calling it “iteration”
 
 
 ## (I’ve met them all at least once)
