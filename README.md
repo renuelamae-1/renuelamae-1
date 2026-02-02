@@ -24,6 +24,7 @@ If you:
 -like tech,
 -appreciate mildly organized chaos,
 -or also push to GitHub and hope for the best…
+
 we’ll get along just fine 😌✨
 
   </td>
