@@ -3,8 +3,12 @@
 an IT student fueled by curiosity, caffeine, and the occasional deadline panic. I enjoy exploring new technologies, polishing my skills, and turning ideas into projects that are both functional and visually pleasing. 
 I believe good tech should make life easier—not more confusing. After all, if users need a manual to click a button… something definitely went wrong.
 
-## About Me 
- 
+## About Me
+<table>
+<tr>
+  <!-- LEFT SIDE: ABOUT ME -->
+  <td valign="top" width="70%">
+   
 - IT student by day, an explorer by night
 
 - Likes clean UI, readable code, and pretending everything was planned
@@ -14,6 +18,22 @@ I believe good tech should make life easier—not more confusing. After all, if 
 - Debugging is my cardio
 
 - Currently learning, failing, fixing, and calling it “iteration”
+
+If you:
+
+-like tech,
+-appreciate mildly organized chaos,
+-or also push to GitHub and hope for the best…
+we’ll get along just fine 😌✨
+
+  </td>
+
+  <!-- RIGHT SIDE: GIF -->
+  <td valign="top" width="30%" align="center">
+    <img src="ezgif.com-crop.gif" width="220" style="border-radius: 15px;" />
+  </td>
+</tr>
+</table>
 
 
 # (I’ve met them all at least once)
@@ -40,16 +60,3 @@ I believe good tech should make life easier—not more confusing. After all, if 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40"/>
 </p>
 
-
-
-## Let’s Connect
-
-If you:
-
--like tech,
-
--appreciate mildly organized chaos,
-
--or also push to GitHub and hope for the best…
-
-we’ll get along just fine 😌✨
